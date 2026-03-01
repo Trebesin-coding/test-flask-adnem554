@@ -13,3 +13,23 @@
 ## JSON
 
 8.  data z formuláře ulož také do JSON recenze.json ve složce data
+
+# Hodnocení:
+
+✅ diakritika v názvu funkce
+
+🚩css ve špatné složce, špatná cesta v linku
+
+🚩chybí uzavření formuláře
+
+🚩form nemá name, redirect nemá .html
+
+🚩neposílá se zpět na stránku ale jen do konzole, na podmínku se nedostane, protože je pod druhou podmínkou
+
+❌chybí celá jinja
+
+🚩co končí? k proč je tam podmínka?
+
+🚩uložení proběhne pouze, pokud se nic nevloží, špatná cesta k .json, nevkládáme list or dictionary
+
+## Známka: 4
